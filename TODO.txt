@@ -1,0 +1,2 @@
+NEXT STEP:
+  ~> Enviar informacoes para o difusor (UDP)
